@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Prayag Singh working as a Blockchain Engineer/DevOps Engineer.
+I'm Prayag Singh, working as a Blockchain Engineer/DevOps Engineer.
 
 ![](https://komarev.com/ghpvc/?username=prayasingh&style=flat-square)
 
